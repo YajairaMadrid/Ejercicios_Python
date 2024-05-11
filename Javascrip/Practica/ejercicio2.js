@@ -1,0 +1,21 @@
+let num1= 4;
+let num2= 8;
+let suma= num1+num2;
+let resta= num1-num2;
+let multiplicacion= num1*num2 //x
+let division= num1/num2; 
+let modulo= num2%num1;
+let potencia3= num1**num2;
+let potencia= Math.pow(num1,2);
+let potencia2= Math.pow(num1,3);
+let raiz= Math.sqrt(num1);
+let diezporciento= num1*0.1;
+console.log("La multiplicación es: ",multiplicacion);
+console.log("La resta es: ",resta);
+console.log("La suma es: ",suma);
+console.log("La división es: ",division);
+console.log("EL módulo es: ",modulo);
+console.log("La potencia al cuadrado del número 1 es: ",potencia);
+console.log("La potencia al cuadrado del número 1 es: ",potencia3);
+console.log("La raíz cuadrada del número 1 es: ",raiz);
+console.log("El 10%  del número 1 es: ",diezporciento);
