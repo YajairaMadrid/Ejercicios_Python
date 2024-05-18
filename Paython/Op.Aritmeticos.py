@@ -1,4 +1,4 @@
-#OPERACIONES
+                       #OPERACIONES
 import math
 num1=int(input("Ingrese un numero: "))
 num2=int(input("Ingrese un numero: "))
