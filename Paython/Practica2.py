@@ -37,7 +37,7 @@ edad= int(input("¿Cuál es tu edad?"))
 if edad < 4:
     print("Su entrada es gratuita")
 elif edad >= 4 and edad <= 18:
-    print("El precio de su entrada es de 5€")D
+    print("El precio de su entrada es de 5€")
 
 
     
