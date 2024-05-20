@@ -37,24 +37,7 @@ edad= int(input("¿Cuál es tu edad?"))
 if edad < 4:
     print("Su entrada es gratuita")
 elif edad >= 4 and edad <= 18:
-    print("El precio de su entrada es de 5€")
-else:
-    print("El precio de su entrada es de 10€")
-
-#4.- Escribir un programa que almacene la cadena de caracteres contraseña en
-#una variable, pregunte al usuario por la contraseña e imprima por pantalla si la
-#contraseña introducida por el usuario coincide con la guardada en la variable
-#sin tener en cuenta mayúsculas y minúsculas.
-print("///////////////////////EJERCICIO 4://///////////////////////////////")
-cont = "yajaira"
-password= input("Ingrese la contraseña:")
-if cont == password.lower():
-    print("La ontraseña correcta")
-else:
-    print("La contraseña es incorrecta")
-
-
-
+    print("El precio de su entrada es de 5€")D
 
 
     
