@@ -5,7 +5,7 @@
 #de varios exámenes y luego calcule y muestre por pantalla el promedio
 #de esas calificaciones.
 calificaciones=print("Ingrese las calificaciones: ")
-nota=calificaciones
+nota=0
 
 #2. Calculadora de área y perímetro:
 #Escribir un programa que pregunte al usuario las dimensiones de un
